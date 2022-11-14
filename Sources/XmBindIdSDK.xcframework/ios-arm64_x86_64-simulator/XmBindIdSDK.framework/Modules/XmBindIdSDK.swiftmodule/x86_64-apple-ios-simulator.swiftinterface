@@ -65,9 +65,6 @@ extension XmBindIdSDK.XmBindIdServerEnvironmentMode {
   public var authorizeUrl: Swift.String {
     get
   }
-  public var tokenUrl: Swift.String {
-    get
-  }
   public var enrollUrl: Swift.String {
     get
   }
@@ -89,6 +86,13 @@ extension XmBindIdSDK.XmBindIdServerEnvironment {
   public var tokenUrl: Swift.String {
     get
   }
+}
+extension XmBindIdSDK.XmBindIdTokenExchangePlatformMode {
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+  public init?(rawValue: Swift.String)
 }
 extension XmBindIdSDK.XmBindIdSdk {
   public var version: Swift.String? {
@@ -177,6 +181,14 @@ public enum XmBindIdServerEnvironmentMode : Swift.String, Swift.CaseIterable, Sw
     get
   }
 }
+public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable, Swift.Equatable, Swift.Hashable, Swift.Codable {
+  case bindId
+  case transmit
+  public typealias AllCases = [XmBindIdSDK.XmBindIdTokenExchangePlatformMode]
+  public static var allCases: [XmBindIdSDK.XmBindIdTokenExchangePlatformMode] {
+    get
+  }
+}
 @_inheritsConvenienceInitializers @objc(XmBindIdError) public class XmBindIdError : ObjectiveC.NSObject, Swift.Codable {
   public var code: XmBindIdSDK.XmBindIdErrorCode! {
     get
@@ -195,6 +207,7 @@ public enum XmBindIdServerEnvironmentMode : Swift.String, Swift.CaseIterable, Sw
 @objc(XmBindIdServerEnvironment) public class XmBindIdServerEnvironment : ObjectiveC.NSObject, Swift.Codable {
   public var environmentMode: XmBindIdSDK.XmBindIdServerEnvironmentMode!
   public var environmentUrl: Swift.String!
+  public var tokenExchangePlatformMode: XmBindIdSDK.XmBindIdTokenExchangePlatformMode?
   public init(environmentMode: XmBindIdSDK.XmBindIdServerEnvironmentMode)
   public init(environmentUrl: Swift.String)
   @objc deinit
@@ -338,4 +351,5 @@ extension XmBindIdSDK.XmBindIdScopeType : Swift.RawRepresentable {}
 extension XmBindIdSDK.XmRequiredVerifications : Swift.RawRepresentable {}
 extension XmBindIdSDK.XmBindIdTokenType : Swift.RawRepresentable {}
 extension XmBindIdSDK.XmBindIdServerEnvironmentMode : Swift.RawRepresentable {}
+extension XmBindIdSDK.XmBindIdTokenExchangePlatformMode : Swift.RawRepresentable {}
 extension XmBindIdSDK.XmBindIdErrorCode : Swift.RawRepresentable {}
