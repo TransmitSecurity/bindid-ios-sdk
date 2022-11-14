@@ -109,6 +109,16 @@ public enum XmBindIdServerEnvironmentMode : String, CaseIterable, Equatable, Has
    case other
 } 
 
+/** XmBindIdTokenExchangePlatformMode
+ Available BindID Token Exchange platform. Default is BindId
+ */
+public enum XmBindIdTokenExchangePlatformMode : String, CaseIterable, Equatable, Hashable, Codable {
+   /** Use the BindId Platform for Token Exchange */ 
+   case bindId
+   /** Use the Transmit Platform for Token Exchange */ 
+   case transmit
+} 
+
 /**
  An object representing SDK errors or failed authentication errors.
  */
@@ -146,6 +156,11 @@ public var environmentMode: XmBindIdServerEnvironmentMode!
  BindID Server URL.
  */
 public var environmentUrl: String!
+
+/**
+ BindID Token Exchange Platform.
+ */
+public var tokenExchangePlatformMode: XmBindIdTokenExchangePlatformMode?
 
 /**
  Creates an instance for the sandbox or production environment, and sets the relevant server URL.
