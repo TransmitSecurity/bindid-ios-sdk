@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
 // swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name XmBindIdSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AuthenticationServices
 import CommonCrypto
 import Compression
@@ -15,6 +16,7 @@ import SystemConfiguration
 import UIKit
 @_exported import XmBindIdSDK
 import _Concurrency
+import _StringProcessing
 public typealias XmBindIdCompletion = ((Swift.Bool?, XmBindIdSDK.XmBindIdError?) -> ())?
 public typealias XmBindIdResponseCompletion = ((XmBindIdSDK.XmBindIdResponse?, XmBindIdSDK.XmBindIdError?) -> ())?
 public typealias XmBindIdExchangeTokenResponseCompletion = ((XmBindIdSDK.XmBindIdExchangeTokenResponse?, XmBindIdSDK.XmBindIdError?) -> ())?
@@ -252,6 +254,7 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   public var encrypted: Swift.Bool?
   public var loginHint: XmBindIdSDK.XmBindIdLoginHint?
   public var boundTo: XmBindIdSDK.XmBindIdBoundTo?
+  public var enforceNativeFlow: Swift.Bool?
   @objc override dynamic public init()
   @objc deinit
   public func encode(to encoder: Swift.Encoder) throws

@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/TransmitBindIdSDK.swift</key>
 		<data>
-		V/52TZH1WnNbm3zyC8ne/nPz0KQ=
+		mAw7IrqaCbzPNNHkn9xndiXENeU=
 		</data>
 		<key>Headers/XmBindIdSDK-Swift.h</key>
 		<data>
-		9qBlN3cVwqr/FPfMcMXjVba8dRY=
+		TX97lV/PkLX7Kk6lL3DSCLP9v1M=
 		</data>
 		<key>Headers/XmBindIdSDK.h</key>
 		<data>
@@ -18,39 +18,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NWSR4My7ALtD3oUXxhwbCuH3R14=
+		6a9AzAjs+yjnnI/1QI6BVsEdC4I=
+		</data>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		6zlFJsXWx40ed01lHHfhFvYvhrM=
+		</data>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		7VLAfDKrC98kJ474LsC9xW6xjvQ=
+		</data>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		XUsRQhK85/6qQGvZmOziaprL53c=
+		</data>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		7VLAfDKrC98kJ474LsC9xW6xjvQ=
+		</data>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		Z69lVxtHBwIjRs34QAUvygaGldM=
+		</data>
+		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		6zlFJsXWx40ed01lHHfhFvYvhrM=
+		</data>
+		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		YPHcPvwiLmjMvLOPqVq3UCczW4k=
 		</data>
 		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yE38ormwLKtiklzKc2mMzZNdJOU=
+		MbVct+OabdH0JGJKNa9giU1qb7M=
 		</data>
 		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0UdszjqUevu2b7I6/BGnto5hePc=
+		YPHcPvwiLmjMvLOPqVq3UCczW4k=
 		</data>
 		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7dDQeSojc3NPhMUvtb6uy4Eznxg=
-		</data>
-		<key>Modules/XmBindIdSDK.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		yE38ormwLKtiklzKc2mMzZNdJOU=
-		</data>
-		<key>Modules/XmBindIdSDK.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		0UdszjqUevu2b7I6/BGnto5hePc=
-		</data>
-		<key>Modules/XmBindIdSDK.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		7dDQeSojc3NPhMUvtb6uy4Eznxg=
+		WfddfPakVcd68SGSQQ1wvXn6bo8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		1DvCpVbZJqADQcC7weLW56HZlBM=
+		dkZUzrKslG7D+TPcJpgwWsr0fJA=
 		</data>
 		<key>version</key>
 		<data>
-		L8fc+LnfP9ukk/8p2YmfUv2IPDM=
+		cc87u3f+soPfY5oC1ZW/S8KEMsE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -59,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yt/erz68BHz3vK4OyFbepNXHNVPCHr8SHHlaPwokKHY=
+			yqJTtpm+XdHEfcEOTPQQ5eU3UA3hcYrkcd7FHYazSxc=
 			</data>
 		</dict>
 		<key>Headers/XmBindIdSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c/Q3F8Qh4bH2cnmd+sZ2bLPaAwdrrAnkT/VcVeFtoP4=
+			hiqTBMjksTpnPsSxGJ4sVy9n/vdVByW88GbtUYKy4KM=
 			</data>
 		</dict>
 		<key>Headers/XmBindIdSDK.h</key>
@@ -76,60 +92,88 @@
 			9+/9et1rWxVnyVDnqe5gKCYPKgjQIQrf7JDhhj/ltgQ=
 			</data>
 		</dict>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DexDel7eMTA1utZr5WXju9JCa3/dOCQkb98zIVaPu8g=
+			</data>
+		</dict>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/45dQ4sCoivpDNjTJtoLC3D2t+mtDyaBf7u6y5Fgy4c=
+			</data>
+		</dict>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5YaiGDewl1tZSkCYpDS3AAQQUMHQ0GHAeylrtv0pUeU=
+			</data>
+		</dict>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/45dQ4sCoivpDNjTJtoLC3D2t+mtDyaBf7u6y5Fgy4c=
+			</data>
+		</dict>
+		<key>Modules/XmBindIdSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XDJnSXBVO0aynX01LlOBS/eYC63YnLJyRjNnxWPoHS4=
+			</data>
+		</dict>
+		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DexDel7eMTA1utZr5WXju9JCa3/dOCQkb98zIVaPu8g=
+			</data>
+		</dict>
+		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kimkiIfkM+6Lu96uFX+id3ly8Z7+2heXmhR7p/j8yvg=
+			</data>
+		</dict>
 		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qg4+bAexBlZvrLga0hHL7NZE2I/ZKjkQLS+rEft8lBQ=
+			ta82XhjdwCvvz8+Wow9ZFG7LlqriBFkKxXDvO71FPHE=
 			</data>
 		</dict>
 		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qKBhGP8xB6CThJ1uMtWQrHXUZfxZwHqMpNxDapjoUdc=
+			kimkiIfkM+6Lu96uFX+id3ly8Z7+2heXmhR7p/j8yvg=
 			</data>
 		</dict>
 		<key>Modules/XmBindIdSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yn3EUC3GngfjNj7RvGQhKHVUokSS+1mnGmb+N5M1ZFk=
-			</data>
-		</dict>
-		<key>Modules/XmBindIdSDK.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qg4+bAexBlZvrLga0hHL7NZE2I/ZKjkQLS+rEft8lBQ=
-			</data>
-		</dict>
-		<key>Modules/XmBindIdSDK.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qKBhGP8xB6CThJ1uMtWQrHXUZfxZwHqMpNxDapjoUdc=
-			</data>
-		</dict>
-		<key>Modules/XmBindIdSDK.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yn3EUC3GngfjNj7RvGQhKHVUokSS+1mnGmb+N5M1ZFk=
+			ik4+fZtFk4HMnuGqC6VsdXPP2RIxFf1a/ejbfNpRtIE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FlktfMWjjbwLTmr0ElKfC8OekzHCVddyzmb2JI19H2o=
+			h3N2oK/m0yt3JYgLHqirAHsKHi7NxtBRLzJNYY8d8e8=
 			</data>
 		</dict>
 		<key>version</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSTDZa4Sl6B+Y4ae9Q0YYvlFV4u+1+9RdFEZ8F3UCf8=
+			nIPyaTu79zPgYZ2pwi4+S9Pt1XF9TOHs4i6g6eAA46k=
 			</data>
 		</dict>
 	</dict>
