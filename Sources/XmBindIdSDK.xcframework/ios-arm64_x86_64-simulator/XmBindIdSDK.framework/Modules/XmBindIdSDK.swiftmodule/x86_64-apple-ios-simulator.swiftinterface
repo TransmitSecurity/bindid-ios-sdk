@@ -252,6 +252,7 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   public var encrypted: Swift.Bool?
   public var loginHint: XmBindIdSDK.XmBindIdLoginHint?
   public var boundTo: XmBindIdSDK.XmBindIdBoundTo?
+  public var enforceNativeFlow: Swift.Bool?
   @objc override dynamic public init()
   @objc deinit
   public func encode(to encoder: Swift.Encoder) throws

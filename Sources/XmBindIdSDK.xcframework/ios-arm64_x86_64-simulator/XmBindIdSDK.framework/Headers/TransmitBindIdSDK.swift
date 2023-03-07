@@ -321,6 +321,11 @@ public var loginHint: XmBindIdLoginHint?
  Used to require an authenticating device bound to the Client Application for a specified user (e.g., for step-up authentication). This bound status is reflected in the ID token by the `ts.bindid.app_bound_cred` ACR value, which is set using a session-feedback request.
  */
 public var boundTo: XmBindIdBoundTo?
+
+/**
+ Used to require authentication using device biometrics as opposed to web view fallback
+ */
+public var enforceNativeFlow: Bool?
 }
 
 /**
