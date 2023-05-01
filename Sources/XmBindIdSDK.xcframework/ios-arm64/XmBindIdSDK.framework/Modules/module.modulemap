@@ -6,6 +6,6 @@ framework module XmBindIdSDK {
 }
 
 module XmBindIdSDK.Swift {
-    header "XmBindIdSDK-Swift.h"
-    requires objc
+  header "XmBindIdSDK-Swift.h"
+  requires objc
 }

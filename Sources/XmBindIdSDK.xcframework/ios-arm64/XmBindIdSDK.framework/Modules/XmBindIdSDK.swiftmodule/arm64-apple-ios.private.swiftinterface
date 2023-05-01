@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name XmBindIdSDK
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name XmBindIdSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AuthenticationServices
 import CommonCrypto
 import Compression
@@ -15,9 +16,10 @@ import SystemConfiguration
 import UIKit
 @_exported import XmBindIdSDK
 import _Concurrency
+import _StringProcessing
 public typealias XmBindIdCompletion = ((Swift.Bool?, XmBindIdSDK.XmBindIdError?) -> ())?
-public typealias XmBindIdResponseCompletion = ((XmBindIdSDK.XmBindIdResponse?, XmBindIdSDK.XmBindIdError?) -> ())?
-public typealias XmBindIdExchangeTokenResponseCompletion = ((XmBindIdSDK.XmBindIdExchangeTokenResponse?, XmBindIdSDK.XmBindIdError?) -> ())?
+public typealias XmBindIdResponseCompletion = (((any XmBindIdSDK.XmBindIdResponse)?, XmBindIdSDK.XmBindIdError?) -> ())?
+public typealias XmBindIdExchangeTokenResponseCompletion = (((any XmBindIdSDK.XmBindIdExchangeTokenResponse)?, XmBindIdSDK.XmBindIdError?) -> ())?
 extension XmBindIdSDK.XmBindIdLoginHintType {
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -201,8 +203,8 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   }
   @objc override dynamic public init()
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @objc(XmBindIdServerEnvironment) public class XmBindIdServerEnvironment : ObjectiveC.NSObject, Swift.Codable {
   public var environmentMode: XmBindIdSDK.XmBindIdServerEnvironmentMode!
@@ -211,8 +213,8 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   public init(environmentMode: XmBindIdSDK.XmBindIdServerEnvironmentMode)
   public init(environmentUrl: Swift.String)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @objc(XmBindIdConfig) public class XmBindIdConfig : ObjectiveC.NSObject, Swift.Codable {
   public var serverEnvironment: XmBindIdSDK.XmBindIdServerEnvironment!
@@ -222,24 +224,24 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   public init(serverEnvironment: XmBindIdSDK.XmBindIdServerEnvironment, clientId: Swift.String)
   public init(clientId: Swift.String)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @objc(XmBindIdLoginHint) public class XmBindIdLoginHint : ObjectiveC.NSObject, Swift.Codable {
   public var type: XmBindIdSDK.XmBindIdLoginHintType!
   public var value: Swift.String!
   public init(type: XmBindIdSDK.XmBindIdLoginHintType, value: Swift.String)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @objc(XmBindIdBoundTo) public class XmBindIdBoundTo : ObjectiveC.NSObject, Swift.Codable {
   public var type: XmBindIdSDK.XmBindIdBoundToType!
   public var value: Swift.String!
   public init(type: XmBindIdSDK.XmBindIdBoundToType, value: Swift.String)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @_inheritsConvenienceInitializers @objc(XmBindIdRequest) public class XmBindIdRequest : ObjectiveC.NSObject, Swift.Codable {
   public var redirectUri: Swift.String!
@@ -252,16 +254,18 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   public var encrypted: Swift.Bool?
   public var loginHint: XmBindIdSDK.XmBindIdLoginHint?
   public var boundTo: XmBindIdSDK.XmBindIdBoundTo?
+  public var enforceNativeFlow: Swift.Bool?
+  public var flowId: Swift.String?
   @objc override dynamic public init()
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @_inheritsConvenienceInitializers @objc(XmBindIdAuthenticationRequest) public class XmBindIdAuthenticationRequest : XmBindIdSDK.XmBindIdRequest {
   convenience public init(redirectUri: Swift.String, encrypted: Swift.Bool)
   convenience public init(redirectUri: Swift.String)
   @objc override dynamic public init()
-  required public init(from decoder: Swift.Decoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc(XmBindIdBoundUserAuthenticationRequest) public class XmBindIdBoundUserAuthenticationRequest : XmBindIdSDK.XmBindIdRequest {
@@ -270,7 +274,7 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   convenience public init(redirectUri: Swift.String, encrypted: Swift.Bool)
   convenience public init(redirectUri: Swift.String)
   @objc override dynamic public init()
-  required public init(from decoder: Swift.Decoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
   @objc deinit
 }
 @objc(XmBindIdTransactionSigningDisplayData) public class XmBindIdTransactionSigningDisplayData : ObjectiveC.NSObject, Swift.Codable {
@@ -279,8 +283,8 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   public var paymentMethod: Swift.String!
   public init(payee: Swift.String, paymentAmount: Swift.String, paymentMethod: Swift.String)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @objc(XmBindIdTransactionSigningData) public class XmBindIdTransactionSigningData : ObjectiveC.NSObject, Swift.Codable {
   public var displayData: XmBindIdSDK.XmBindIdTransactionSigningDisplayData!
@@ -288,15 +292,15 @@ public enum XmBindIdTokenExchangePlatformMode : Swift.String, Swift.CaseIterable
   public var essential: Swift.Bool?
   public init(displayData: XmBindIdSDK.XmBindIdTransactionSigningDisplayData)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @_inheritsConvenienceInitializers @objc(XmBindIdTransactionSigningRequest) public class XmBindIdTransactionSigningRequest : XmBindIdSDK.XmBindIdRequest {
   public var transactionSigningData: XmBindIdSDK.XmBindIdTransactionSigningData!
   convenience public init(redirectUri: Swift.String, encrypted: Swift.Bool, transactionSigningData: XmBindIdSDK.XmBindIdTransactionSigningData)
   convenience public init(redirectUri: Swift.String, transactionSigningData: XmBindIdSDK.XmBindIdTransactionSigningData)
   @objc override dynamic public init()
-  required public init(from decoder: Swift.Decoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
   @objc deinit
 }
 public enum XmBindIdTokenType : Swift.String, Swift.CaseIterable, Swift.Equatable, Swift.Hashable, Swift.Codable {
@@ -328,21 +332,21 @@ public protocol XmBindIdResponse : Swift.Decodable, Swift.Encodable {
   public var redirectUri: Swift.String! {
     get
   }
-  public init(codeResponse: XmBindIdSDK.XmBindIdResponse)
+  public init(codeResponse: any XmBindIdSDK.XmBindIdResponse)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(XmBindIdSdk) public class XmBindIdSdk : ObjectiveC.NSObject, Swift.Codable {
   public static let shared: XmBindIdSDK.XmBindIdSdk
   public func initialize(config: XmBindIdSDK.XmBindIdConfig, completion: ((Swift.Bool?, XmBindIdSDK.XmBindIdError?) -> ())?)
-  public func authenticate(bindIdRequestParams: XmBindIdSDK.XmBindIdAuthenticationRequest, completion: ((XmBindIdSDK.XmBindIdResponse?, XmBindIdSDK.XmBindIdError?) -> ())?)
-  public func authenticateBoundUser(bindIdRequestParams: XmBindIdSDK.XmBindIdBoundUserAuthenticationRequest, completion: ((XmBindIdSDK.XmBindIdResponse?, XmBindIdSDK.XmBindIdError?) -> ())?)
-  public func signTransaction(bindIdTransactionRequest: XmBindIdSDK.XmBindIdTransactionSigningRequest, completion: ((XmBindIdSDK.XmBindIdResponse?, XmBindIdSDK.XmBindIdError?) -> ())?)
-  public func exchangeToken(exchangeRequest: XmBindIdSDK.XmBindIdExchangeTokenRequest, completion: ((XmBindIdSDK.XmBindIdExchangeTokenResponse?, XmBindIdSDK.XmBindIdError?) -> ())?)
+  public func authenticate(bindIdRequestParams: XmBindIdSDK.XmBindIdAuthenticationRequest, completion: (((any XmBindIdSDK.XmBindIdResponse)?, XmBindIdSDK.XmBindIdError?) -> ())?)
+  public func authenticateBoundUser(bindIdRequestParams: XmBindIdSDK.XmBindIdBoundUserAuthenticationRequest, completion: (((any XmBindIdSDK.XmBindIdResponse)?, XmBindIdSDK.XmBindIdError?) -> ())?)
+  public func signTransaction(bindIdTransactionRequest: XmBindIdSDK.XmBindIdTransactionSigningRequest, completion: (((any XmBindIdSDK.XmBindIdResponse)?, XmBindIdSDK.XmBindIdError?) -> ())?)
+  public func exchangeToken(exchangeRequest: XmBindIdSDK.XmBindIdExchangeTokenRequest, completion: (((any XmBindIdSDK.XmBindIdExchangeTokenResponse)?, XmBindIdSDK.XmBindIdError?) -> ())?)
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 extension XmBindIdSDK.XmBindIdLoginHintType : Swift.RawRepresentable {}
 extension XmBindIdSDK.XmBindIdBoundToType : Swift.RawRepresentable {}
