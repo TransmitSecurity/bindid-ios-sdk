@@ -34,7 +34,7 @@ Here's how it works:
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate XmBindIdSDK into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'XmBindIdSDK', '~> 1.70.0'
+pod 'XmBindIdSDK', '~> 1.80.0'
 ```
 
 ### Carthage
@@ -42,7 +42,7 @@ pod 'XmBindIdSDK', '~> 1.70.0'
 [Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate XmBindIdSDK into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "https://github.com/TransmitSecurity/bindid-ios-sdk" ~> 1.70.0
+github "https://github.com/TransmitSecurity/bindid-ios-sdk" ~> 1.80.0
 ```
 
 ### Swift Package Manager
@@ -53,7 +53,7 @@ Once you have your Swift package set up, adding XmBindIdSDK as a dependency is a
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/TransmitSecurity/bindid-ios-sdk.git", .upToNextMajor(from: "1.70.0"))
+    .package(url: "https://github.com/TransmitSecurity/bindid-ios-sdk.git", .upToNextMajor(from: "1.80.0"))
 ]
 ```
 
