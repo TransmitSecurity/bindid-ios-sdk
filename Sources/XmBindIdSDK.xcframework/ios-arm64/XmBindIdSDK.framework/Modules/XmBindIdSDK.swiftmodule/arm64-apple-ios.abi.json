@@ -13080,28 +13080,28 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/TSXBindIdPersistentData.swift",
       "kind": "StringLiteral",
-      "offset": 2286,
+      "offset": 2277,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/TSXBindIdPersistentData.swift",
       "kind": "StringLiteral",
-      "offset": 2293,
+      "offset": 2284,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/TSXBindIdPersistentData.swift",
       "kind": "StringLiteral",
-      "offset": 2302,
+      "offset": 2293,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/TSXBindIdPersistentData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2420,
+      "offset": 2411,
       "length": 5,
       "value": "false"
     },
@@ -14984,63 +14984,70 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "BooleanLiteral",
-      "offset": 3592,
+      "offset": 2373,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "BooleanLiteral",
-      "offset": 3649,
+      "offset": 3760,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3817,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "BooleanLiteral",
-      "offset": 3691,
+      "offset": 3859,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "BooleanLiteral",
-      "offset": 4090,
+      "offset": 4258,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "BooleanLiteral",
-      "offset": 4717,
+      "offset": 4885,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "BooleanLiteral",
-      "offset": 5366,
+      "offset": 5534,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "BooleanLiteral",
-      "offset": 6051,
+      "offset": 6219,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "StringLiteral",
-      "offset": 7324,
+      "offset": 7492,
       "length": 43,
       "value": "\"RSA public key Base64: \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Libs\/Crypto\/TSXBindIdCrypto.swift",
       "kind": "StringLiteral",
-      "offset": 7366,
+      "offset": 7534,
       "length": 2,
       "value": "\"\""
     },
@@ -15131,35 +15138,35 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/Enroll\/TSXBindIdEnrollRequestData.swift",
       "kind": "StringLiteral",
-      "offset": 672,
+      "offset": 755,
       "length": 4,
       "value": "\"EC\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/Enroll\/TSXBindIdEnrollRequestData.swift",
       "kind": "BooleanLiteral",
-      "offset": 699,
+      "offset": 782,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/Enroll\/TSXBindIdEnrollRequestData.swift",
       "kind": "StringLiteral",
-      "offset": 1033,
+      "offset": 1187,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/Enroll\/TSXBindIdEnrollRequestData.swift",
       "kind": "BooleanLiteral",
-      "offset": 1051,
+      "offset": 1205,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/Enroll\/TSXBindIdEnrollRequestData.swift",
       "kind": "StringLiteral",
-      "offset": 1057,
+      "offset": 1211,
       "length": 1,
       "value": "\"\""
     },
@@ -15257,140 +15264,154 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1604,
+      "offset": 1630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 1988,
+      "offset": 2014,
       "length": 31,
       "value": "\"codeVerifier: \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 2018,
+      "offset": 2044,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
+      "kind": "StringLiteral",
+      "offset": 2569,
+      "length": 63,
+      "value": "\"key registration codeVerifier: \""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
+      "kind": "StringLiteral",
+      "offset": 2631,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "BooleanLiteral",
-      "offset": 3521,
+      "offset": 4164,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "IntegerLiteral",
-      "offset": 3599,
+      "offset": 4242,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 4017,
+      "offset": 4660,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 4026,
+      "offset": 4669,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 4421,
+      "offset": 5064,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 4441,
+      "offset": 5084,
       "length": 30,
       "value": "\"Bind ID Full URL: \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 4470,
+      "offset": 5113,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 6060,
+      "offset": 6703,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 6085,
+      "offset": 6728,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 6094,
+      "offset": 6737,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 6278,
+      "offset": 6921,
       "length": 37,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 6305,
+      "offset": 6948,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "StringLiteral",
-      "offset": 6314,
+      "offset": 6957,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "BooleanLiteral",
-      "offset": 7257,
+      "offset": 8523,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "IntegerLiteral",
-      "offset": 8167,
+      "offset": 9433,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "IntegerLiteral",
-      "offset": 8254,
+      "offset": 9520,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Actions\/TSXBindIdBuildUrl.swift",
       "kind": "BooleanLiteral",
-      "offset": 8536,
+      "offset": 9802,
       "length": 5,
       "value": "false"
     },
@@ -16018,13 +16039,6 @@
       "value": "2"
     },
     {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdTokenExchangeFlow.swift",
-      "kind": "StringLiteral",
-      "offset": 863,
-      "length": 51,
-      "value": "\"No codeVerifier provided. Did you enable usePkce?\""
-    },
-    {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 128,
@@ -16223,84 +16237,98 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 954,
+      "offset": 976,
+      "length": 33,
+      "value": "\"key_registration_code_challenge\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1056,
+      "length": 40,
+      "value": "\"key_registration_code_challenge_method\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1115,
       "length": 8,
       "value": "\"claims\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 984,
+      "offset": 1145,
       "length": 12,
       "value": "\"acr_values\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1024,
+      "offset": 1185,
       "length": 18,
       "value": "\"key_registration\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1084,
+      "offset": 1245,
       "length": 5,
       "value": "\"iss\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1105,
+      "offset": 1266,
       "length": 5,
       "value": "\"aud\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1130,
+      "offset": 1291,
       "length": 9,
       "value": "\"request\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1163,
+      "offset": 1324,
       "length": 9,
       "value": "\"user_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1193,
+      "offset": 1354,
       "length": 5,
       "value": "\"did\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1217,
+      "offset": 1378,
       "length": 9,
       "value": "\"flow_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1246,
+      "offset": 1407,
       "length": 10,
       "value": "\"bound_to\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1278,
+      "offset": 1439,
       "length": 12,
       "value": "\"login_hint\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1306,
+      "offset": 1467,
       "length": 5,
       "value": "\"fid\""
     },
@@ -16391,532 +16419,546 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 954,
+      "offset": 976,
+      "length": 33,
+      "value": "\"key_registration_code_challenge\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1056,
+      "length": 40,
+      "value": "\"key_registration_code_challenge_method\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1115,
       "length": 8,
       "value": "\"claims\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 984,
+      "offset": 1145,
       "length": 12,
       "value": "\"acr_values\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1024,
+      "offset": 1185,
       "length": 18,
       "value": "\"key_registration\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1084,
+      "offset": 1245,
       "length": 5,
       "value": "\"iss\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1105,
+      "offset": 1266,
       "length": 5,
       "value": "\"aud\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1130,
+      "offset": 1291,
       "length": 9,
       "value": "\"request\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1163,
+      "offset": 1324,
       "length": 9,
       "value": "\"user_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1193,
+      "offset": 1354,
       "length": 5,
       "value": "\"did\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1217,
+      "offset": 1378,
       "length": 9,
       "value": "\"flow_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1246,
+      "offset": 1407,
       "length": 10,
       "value": "\"bound_to\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1278,
+      "offset": 1439,
       "length": 12,
       "value": "\"login_hint\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1306,
+      "offset": 1467,
       "length": 5,
       "value": "\"fid\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1373,
+      "offset": 1534,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1397,
+      "offset": 1558,
       "length": 7,
       "value": "\"state\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1423,
+      "offset": 1584,
       "length": 9,
       "value": "\"user_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1465,
+      "offset": 1626,
       "length": 24,
       "value": "\"key_registration_token\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1514,
+      "offset": 1675,
       "length": 15,
       "value": "\"code_verifier\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1548,
+      "offset": 1709,
       "length": 9,
       "value": "\"flow_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1575,
+      "offset": 1736,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1611,
+      "offset": 1772,
       "length": 19,
       "value": "\"error_description\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1652,
+      "offset": 1813,
       "length": 12,
       "value": "\"server_url\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1373,
+      "offset": 1534,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1397,
+      "offset": 1558,
       "length": 7,
       "value": "\"state\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1423,
+      "offset": 1584,
       "length": 9,
       "value": "\"user_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1465,
+      "offset": 1626,
       "length": 24,
       "value": "\"key_registration_token\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1514,
+      "offset": 1675,
       "length": 15,
       "value": "\"code_verifier\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1548,
+      "offset": 1709,
       "length": 9,
       "value": "\"flow_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1575,
+      "offset": 1736,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1611,
+      "offset": 1772,
       "length": 19,
       "value": "\"error_description\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1652,
+      "offset": 1813,
       "length": 12,
       "value": "\"server_url\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1746,
+      "offset": 1907,
       "length": 15,
       "value": "\"code_verifier\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1783,
+      "offset": 1944,
       "length": 12,
       "value": "\"grant_type\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1812,
+      "offset": 1973,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1839,
+      "offset": 2000,
       "length": 11,
       "value": "\"client_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1874,
+      "offset": 2035,
       "length": 14,
       "value": "\"redirect_uri\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1746,
+      "offset": 1907,
       "length": 15,
       "value": "\"code_verifier\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1783,
+      "offset": 1944,
       "length": 12,
       "value": "\"grant_type\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1812,
+      "offset": 1973,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1839,
+      "offset": 2000,
       "length": 11,
       "value": "\"client_id\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1874,
+      "offset": 2035,
       "length": 14,
       "value": "\"redirect_uri\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1969,
+      "offset": 2130,
       "length": 20,
       "value": "\"authorization_code\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 1969,
+      "offset": 2130,
       "length": 20,
       "value": "\"authorization_code\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2064,
+      "offset": 2225,
       "length": 10,
       "value": "\"id_token\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2108,
+      "offset": 2269,
       "length": 25,
       "value": "\"bindid_psd2_transaction\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2155,
+      "offset": 2316,
       "length": 11,
       "value": "\"essential\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2196,
+      "offset": 2357,
       "length": 19,
       "value": "\"enforceNativeFlow\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2233,
+      "offset": 2394,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2264,
+      "offset": 2425,
       "length": 14,
       "value": "\"display_data\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2296,
+      "offset": 2457,
       "length": 7,
       "value": "\"payee\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2329,
-      "length": 16,
-      "value": "\"payment_amount\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2371,
-      "length": 16,
-      "value": "\"payment_method\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2414,
-      "length": 17,
-      "value": "\"additional_data\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2064,
-      "length": 10,
-      "value": "\"id_token\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2108,
-      "length": 25,
-      "value": "\"bindid_psd2_transaction\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2155,
-      "length": 11,
-      "value": "\"essential\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2196,
-      "length": 19,
-      "value": "\"enforceNativeFlow\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2233,
-      "length": 7,
-      "value": "\"value\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2264,
-      "length": 14,
-      "value": "\"display_data\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2296,
-      "length": 7,
-      "value": "\"payee\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2329,
-      "length": 16,
-      "value": "\"payment_amount\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2371,
-      "length": 16,
-      "value": "\"payment_method\""
-    },
-    {
-      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2414,
-      "length": 17,
-      "value": "\"additional_data\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
       "offset": 2490,
+      "length": 16,
+      "value": "\"payment_amount\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2532,
+      "length": 16,
+      "value": "\"payment_method\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2575,
+      "length": 17,
+      "value": "\"additional_data\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2225,
+      "length": 10,
+      "value": "\"id_token\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2269,
+      "length": 25,
+      "value": "\"bindid_psd2_transaction\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2316,
+      "length": 11,
+      "value": "\"essential\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2357,
+      "length": 19,
+      "value": "\"enforceNativeFlow\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2394,
+      "length": 7,
+      "value": "\"value\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2425,
+      "length": 14,
+      "value": "\"display_data\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2457,
+      "length": 7,
+      "value": "\"payee\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2490,
+      "length": 16,
+      "value": "\"payment_amount\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2532,
+      "length": 16,
+      "value": "\"payment_method\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2575,
+      "length": 17,
+      "value": "\"additional_data\""
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2651,
       "length": 11,
       "value": "\"authorize\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2518,
+      "offset": 2679,
       "length": 6,
       "value": "\"jwks\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2543,
+      "offset": 2704,
       "length": 16,
       "value": "\"bio_key\/enroll\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2581,
+      "offset": 2742,
       "length": 19,
       "value": "\"bio_key\/challenge\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2625,
+      "offset": 2786,
       "length": 19,
       "value": "\"bio_key\/authorize\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2673,
+      "offset": 2834,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2706,
+      "offset": 2867,
       "length": 11,
       "value": "\"tip\/token\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2490,
+      "offset": 2651,
       "length": 11,
       "value": "\"authorize\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2518,
+      "offset": 2679,
       "length": 6,
       "value": "\"jwks\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2543,
+      "offset": 2704,
       "length": 16,
       "value": "\"bio_key\/enroll\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2581,
+      "offset": 2742,
       "length": 19,
       "value": "\"bio_key\/challenge\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2625,
+      "offset": 2786,
       "length": 19,
       "value": "\"bio_key\/authorize\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2673,
+      "offset": 2834,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Utils\/TSXBindIdConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2706,
+      "offset": 2867,
       "length": 11,
       "value": "\"tip\/token\""
     },
@@ -17315,56 +17357,56 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 1985,
+      "offset": 2003,
       "length": 15,
       "value": "\"access_denied\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2657,
+      "offset": 2675,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2664,
+      "offset": 2682,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2673,
+      "offset": 2691,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2767,
+      "offset": 2785,
       "length": 3,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2798,
+      "offset": 2816,
       "length": 31,
       "value": "\"POST Http body: \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2828,
+      "offset": 2846,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdImpUtils.swift",
       "kind": "StringLiteral",
-      "offset": 3656,
+      "offset": 3674,
       "length": 2,
       "value": "\"\""
     },
@@ -17727,50 +17769,57 @@
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1176,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
       "kind": "StringLiteral",
-      "offset": 1519,
+      "offset": 1546,
       "length": 85,
       "value": "\"Challenge request data \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
       "kind": "StringLiteral",
-      "offset": 1600,
+      "offset": 1627,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
       "kind": "StringLiteral",
-      "offset": 1603,
+      "offset": 1630,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
       "kind": "StringLiteral",
-      "offset": 4041,
+      "offset": 4068,
       "length": 27,
       "value": "\"FaceID permission denied.\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
       "kind": "StringLiteral",
-      "offset": 7499,
+      "offset": 7526,
       "length": 85,
       "value": "\"Authorize request data \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
       "kind": "StringLiteral",
-      "offset": 7580,
+      "offset": 7607,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdBaseAuthFlow.swift",
       "kind": "StringLiteral",
-      "offset": 7583,
+      "offset": 7610,
       "length": 2,
       "value": "\"\""
     },
@@ -18001,7 +18050,7 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Models\/TSXBindIdSessionData.swift",
       "kind": "BooleanLiteral",
-      "offset": 629,
+      "offset": 674,
       "length": 4,
       "value": "true"
     },
@@ -18806,56 +18855,56 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 11484,
+      "offset": 11611,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 11491,
+      "offset": 11618,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 11500,
+      "offset": 11627,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 11594,
+      "offset": 11721,
       "length": 3,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 11625,
+      "offset": 11752,
       "length": 31,
       "value": "\"POST Http body: \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 11655,
+      "offset": 11782,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 12155,
+      "offset": 12282,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/TransmitBindIdSDKImpl.swift",
       "kind": "StringLiteral",
-      "offset": 12294,
+      "offset": 12421,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
@@ -19156,21 +19205,21 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdSdkImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 983,
+      "offset": 1254,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdSdkImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1861,
+      "offset": 1933,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/XmBindIdSdkImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1943,
+      "offset": 2015,
       "length": 5,
       "value": "false"
     },
@@ -19457,28 +19506,35 @@
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdWebFlow.swift",
       "kind": "BooleanLiteral",
-      "offset": 2266,
+      "offset": 1155,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdWebFlow.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2292,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdWebFlow.swift",
       "kind": "StringLiteral",
-      "offset": 2309,
+      "offset": 2335,
       "length": 29,
       "value": "\"Callback URL: \""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdWebFlow.swift",
       "kind": "StringLiteral",
-      "offset": 2337,
+      "offset": 2363,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igorbabitski\/Documents\/Projects\/bindid-ios-sdk\/XmBindIdSDK\/XmBindIdSDK\/Impl\/Flows\/TSXBindIdWebFlow.swift",
       "kind": "StringLiteral",
-      "offset": 3681,
+      "offset": 3733,
       "length": 2,
       "value": "\"\""
     },

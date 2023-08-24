@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
     #
   
     spec.name         = "XmBindIdSDK"
-    spec.version      = "1.80.0"
+    spec.version      = "1.90.0"
     spec.summary      = "BindID service, an app-less, strong portable authenticator offered by Transmit Security"
     spec.homepage     = "https://github.com/TransmitSecurity/bindid-ios-sdk"
   
